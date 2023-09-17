@@ -22,21 +22,24 @@ TODO
 ## Prediction Task
 
 ### Models & Training
+TODO
+
+### Results
+TODO
+
+<hr/>
+
+## Content-Based Recommendation System
+
+### Model & Training
 
 ### Results
 
 <hr/>
 
-## Content-Based Recommendation System
-TODO
-
-<hr/>
-
 ## Contact
-Feel free to open an issue on this repository or e-mail adunning@ucsd.edu.
+Feel free to e-mail etorre@student.ethz.ch.
   
 ## Acknowledgements
-The code in this project is heavily adapted and modified from the following repositories:
-1. [Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
-2. [torch_geometric GraphGym](https://github.com/pyg-team/pytorch_geometric/tree/master/graphgym)
-3. [Hierarchical Graph Net](https://github.com/rampasek/HGNet)
+The code in this project is adapted and modified from the following repositories:
+1. [Title](https://)
