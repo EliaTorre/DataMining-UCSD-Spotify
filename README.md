@@ -32,8 +32,10 @@ TODO
 ## Content-Based Recommendation System
 
 ### Model & Training
+TODO
 
 ### Results
+TODO
 
 <hr/>
 
