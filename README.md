@@ -57,7 +57,9 @@ The results of the Recommendation System are not easy to evaluate. However, give
 
 In the following figure, it is shown the set of suggested songs for the same playlist by Spotify’s algorithms. It is worth noting that among the suggestion of our algorithm and the algorithm of Spotify there is a coincidence, i.e., the first track.
 
+<div align="center">
 <img src="spotify.png" alt="Spotify Suggestions" width="40%">
+</div>
 
 <hr/>
 
