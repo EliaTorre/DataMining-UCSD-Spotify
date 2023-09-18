@@ -11,7 +11,7 @@ Spotify Song Popularity & Content-Based Recommendation System</h1>
 <hr/>
 
 ## Dataset
-TODO
+The dataset used to perform the following analysis is a dataframe containing approximately 170k songs, it covers an heterogeneous range of genres on a timeframe from 1921 to 2020. It can be retrieved from Kaggle at: [Kaggle Dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/input)
 
 <hr/>
 
