@@ -44,7 +44,7 @@ The Content-Based Recommendation System Model is based on two main functions:
   1. **Featurizer**: this function represents the core of the recommender system implementation. Indeed, "featurizer" aims at giving a "vectorial" representation of the playlist such that it can be compared to the "vectorial" representation of other songs.
   2. **Recommender**: this function aims at comparing the playlist vector obtained through the previous function to the vector of the other songs. In order to do so, "Cosine Similarity" is exploited.
 
-$$Cosine \ Similarity = S_{C}(A,B) := cos(\theta) =\frac{\mathbf{A}\times\mathbf{B}}{||\mathbf{A}||\times||\mathbf{B}||}= \frac{\sum_{i=1}^{n}A_{i}B_{i}}{\sqrt{\sum_{i=1}^{n}A_{i}^{2}}\sqrt{\sum_{i=1}^{n}B_{i}^{2}}}$$
+$$Cosine \ Similarity = S_{C}(A,B) := cos(\theta) =\frac{\mathbf{A}\times\mathbf{B}}{||\mathbf{A}||\times||\mathbf{B}||}
 
 ### Results
 TODO
