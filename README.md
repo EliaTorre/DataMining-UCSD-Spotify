@@ -19,15 +19,15 @@ The dataset used to perform the following analysis is a dataframe containing app
 
 ### Models & Training
 Since we are dealing with a regression task, i.e., we are regressing the features of the dataset to predict the popularity of a song, **LinearRegression** will be used as a baseline model. Indeed, it represents the simplest model and "building block" of regression analysis. Then, **XGBRegressor**, i.e. a very robust boosting algorithm which is often exploited in Data Science competitions due to its ability of achieving good performance with relatively simple hyperparameters optimization, will be implemented. In addition, also **RandomForestRegressor**, i.e., a tree-based decision algorithm that exploits bagging and randomness, will be tried. The performance of these three algorithms will be evaluated according to **Mean Squared Error**. The MSE obtained by the three architectures before any hyperarameter tuning is the following:
-  • LinearRegression: 119.17
-  • XGBRegressor: 99.15
-  • RandomForestRegressor: 95.68
+  1. LinearRegression: 119.17
+  2. XGBRegressor: 99.15
+  3. RandomForestRegressor: 95.68
 Then, we proceed in the process of HyperParameters Tuning, which has been performed through RandomizedSearchCV.
 
 ### Results
 The results are obtained on a Train/Test split of 80/20 and cross-validated through KFold with a cv of 5, and are the following:
-  • XGBRegressor: 94.78
-  • RandomForestRegressor: 95.66
+  2. XGBRegressor: 94.78
+  3. RandomForestRegressor: 95.66
 
 <hr/>
 
