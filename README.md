@@ -30,6 +30,11 @@ The results are obtained on a Train/Test split of 80/20 and cross-validated thro
   1. XGBRegressor: 94.78
   2. RandomForestRegressor: 95.66
 
+Finally, as the performances of the two models were relatively similar in cross-validation, some ensemble algorithms were exploited to exploit eventual complementarity of the two models. The results are evaluated in KFold cross-validation as previously and the average performances are reported:
+  1. VotingRegressor: 93.93
+  2. StackingRegressor: 92.96
+  3. StackingRegressor (+ ElasticNetCV): 93.55
+
 <hr/>
 
 ## Content-Based Recommendation System
