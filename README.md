@@ -51,7 +51,9 @@ The results of the Recommendation System are not easy to evaluate. However, give
 
 <div style="display: flex;" align="center">
   <img src="playlist.png" alt="Created Playlist" width="35.5%">
+  <figcaption>Playlist created to test the Recommendation System</figcaption>
   <img src="suggested.png" alt="Suggested Playlist" width="40%">
+  <figcaption>Suggested songs by the Recommendation System</figcaption>
 </div>
 
 <hr/>
