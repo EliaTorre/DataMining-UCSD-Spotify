@@ -22,12 +22,13 @@ Since we are dealing with a regression task, i.e., we are regressing the feature
   1. LinearRegression: 119.17
   2. XGBRegressor: 99.15
   3. RandomForestRegressor: 95.68
+     
 Then, we proceed in the process of HyperParameters Tuning, which has been performed through RandomizedSearchCV.
 
 ### Results
 The results are obtained on a Train/Test split of 80/20 and cross-validated through KFold with a cv of 5, and are the following:
-  2. XGBRegressor: 94.78
-  3. RandomForestRegressor: 95.66
+  1. XGBRegressor: 94.78
+  2. RandomForestRegressor: 95.66
 
 <hr/>
 
