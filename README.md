@@ -47,7 +47,7 @@ The Content-Based Recommendation System Model is based on two main functions:
 $$Cosine \ Similarity = S_{C}(A,B) := cos(\theta) =\frac{\mathbf{A}\times\mathbf{B}}{||\mathbf{A}||\times||\mathbf{B}||}$$
 
 ### Results
-TODO
+The results of the Recommendation System are not easy to evaluate. However, given an ad-hoc created playlist, which targeted specific genres and artists, the recommendation system suggested songs from the same albums and artists that were not present in the playlist. Since the algorithm was not explicitly instructed to do so, but rather analyse the content of the songs in the playlist and compare it with the others in the dataset, we could consider it as a sign that the system is working properly.
 
 <hr/>
 
