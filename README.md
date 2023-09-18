@@ -67,5 +67,4 @@ In the following figure, it is shown the set of suggested songs for the same pla
 Feel free to e-mail etorre@student.ethz.ch.
   
 ## Acknowledgements
-The code in this project is adapted and modified from the following repositories:
-1. [Title](https://)
+The code in this project is inspired and adapted from several different sources that can be found in the paper associated with this repository. 
