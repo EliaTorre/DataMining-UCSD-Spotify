@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Spotify Song Popularity & Content-Based Recommendation System</h1>
+Spotify Song Popularity Prediction & Playlist Content-Based Recommendation System</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eliatorre/">Elia Torre</a>
